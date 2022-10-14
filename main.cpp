@@ -4,4 +4,4 @@
 #define pb				push_back
 #define vi				vector<int>
 #define w(x)			int x; cin >> x; while (x--)
-
+#define endl      "\n"
